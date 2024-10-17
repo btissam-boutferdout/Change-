@@ -1,0 +1,20 @@
+.logo {
+  width: 90px;
+  height: 90px;
+}
+body {
+  margin-top: 150px;
+}
+.card-img-top {
+  width: 299px;
+  height: 250px;
+}
+.col {
+  margin-bottom: 40px;
+}
+.light {
+  color: white;
+}
+.bg-dark {
+  height: 100px;
+}
